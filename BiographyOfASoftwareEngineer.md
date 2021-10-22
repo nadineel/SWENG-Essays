@@ -43,16 +43,25 @@ Java’s development without a doubt changed internet forever. For the conceptio
 
 There must be something about 1955 as a lot of great and successful tech figures were born that year. Here is an image of data sample of software millionaires’ birth year. Although James Gosling is not included in the data, I think this is an interesting finding, so I added it here.
  
-[Here is an interesting article on why NeWs did not succeed.](https://wiki.c2.com/?NetworkExtensibleWindowSystem)
-[This is also a good read where James Gosling talked about how he was treated in Oracle after Sun Microsystems took a hit financially.](https://www.eweek.com/development/java-creator-james-gosling-why-i-quit-oracle/)
+[Here is an interesting article on NeWs](https://wiki.c2.com/?NetworkExtensibleWindowSystem)
+
+[This is also a good read where James Gosling talked about his experince at Oracle after Sun Microsystems took a hit financially.](https://www.eweek.com/development/java-creator-james-gosling-why-i-quit-oracle/)
 
 ##### Resources
 http://www.computinghistory.org.uk/det/1793/James-Gosling/
+
 https://www.javatpoint.com/james-gosling-father-of-java
+
 http://www.chilton-computing.org.uk/inf/literature/books/wm/p005.htm
+
 https://web.archive.org/web/20140722132808/http://www.acm.org/press-room/news-releases/2013/fellows-2013
+
 https://computerhistory.org/fellow-awards/?alias=bio&person=James-Gosling
+
 https://wiki.c2.com/?NetworkExtensibleWindowSystem
+
 https://www.semanticscholar.org/topic/Gosling-Emacs/2056910
+
 https://measuringu.com/1955-2/
+
 
