@@ -42,6 +42,8 @@ Often known as "Gosmacs" or "gmacs," Gosling Emacs is a discontinued Emacs imple
 Java’s development without a doubt changed internet forever. For the conception, design, and implementation of the Java programming language, James Gosling has certainly made a huge impact not just to me, and everyone but also to the future.
 
 There must be something about 1955 as a lot of great and successful tech figures were born that year. Here is an image of data sample of software millionaires’ birth year. Although James Gosling is not included in the data, I think this is an interesting finding, so I added it here.
+
+![alt text](data.png "image Title")
  
 [Here is an interesting article on NeWs](https://wiki.c2.com/?NetworkExtensibleWindowSystem)
 
