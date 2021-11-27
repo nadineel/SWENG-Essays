@@ -5,4 +5,5 @@
 https://github.com/nadineel/SWENG-Essays/blob/master/BiographyOfASoftwareEngineer.md
 
 ## Measuring Software Engineering Report
-
+>13 pages report on Measuring Software Engineering
+https://github.com/nadineel/SWENG-Essays/blob/master/Measuring%20Software%20Engineering.pdf
